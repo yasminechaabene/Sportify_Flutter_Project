@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "964623689866",
+    "firebase_url": "https://sportify-4fafd.firebaseio.com",
+    "project_id": "sportify-4fafd",
+    "storage_bucket": "sportify-4fafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964623689866:android:5ead219e0a925cbed76573",
+        "android_client_info": {
+          "package_name": "com.aa.aa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964623689866-c7g6jgli1ick2bsorpcka51v4dlcpjog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuotiSdhJt4Dc75dQpZvcF9YdKQb8gk94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964623689866-c7g6jgli1ick2bsorpcka51v4dlcpjog.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "964623689866-741g7h9o6vg9qef7aoku7d8ei9cjs74g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964623689866:android:26975bcce5568c7ad76573",
+        "android_client_info": {
+          "package_name": "com.example.provider_architecutre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964623689866-c7g6jgli1ick2bsorpcka51v4dlcpjog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuotiSdhJt4Dc75dQpZvcF9YdKQb8gk94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964623689866-c7g6jgli1ick2bsorpcka51v4dlcpjog.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "964623689866-741g7h9o6vg9qef7aoku7d8ei9cjs74g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

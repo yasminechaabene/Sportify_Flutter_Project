@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

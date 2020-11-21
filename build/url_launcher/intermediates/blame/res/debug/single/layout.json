@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\layout\\notification_action.xml"
+    }
+]

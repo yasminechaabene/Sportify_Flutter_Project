@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\yasmi\\Desktop\\flutter_projects\\CaFit\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.1.0.aar\\3f083a90b2b1109ebe57017450bfcf7e\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "249,353,565,693,800,1030,1161,1308,1446,1700,1810,2026,2160,2379,2584,2683,2773",
+                        "endColumns": "103,211,127,106,229,130,146,137,253,109,215,133,218,204,98,89,108",
+                        "endOffsets": "352,564,692,799,1029,1160,1307,1445,1699,1809,2025,2159,2378,2583,2682,2772,2881"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,425,557,668,898,1033,1184,1546,1800,1914,2130,2268,2487,2696,2799,2893",
+                        "endColumns": "107,211,131,110,229,134,150,141,253,113,215,137,218,208,102,93,112",
+                        "endOffsets": "208,420,552,663,893,1028,1179,1321,1795,1909,2125,2263,2482,2691,2794,2888,3001"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-17.0.0.aar\\61fb799632431ab7dc5ef0a6283b9ff5\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "219",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1326",
+                        "endColumns": "219",
+                        "endOffsets": "1541"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-20.1.0.aar\\18a2bbd989cf18dd55b0782748806a73\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "211",
+                        "endColumns": "100",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "3006",
+                        "endColumns": "104",
+                        "endOffsets": "3106"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasmi\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8d731b051a588990b9994e8a7417f3d6\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "3111",
+                        "endColumns": "100",
+                        "endOffsets": "3207"
+                    }
+                }
+            ]
+        }
+    ]
+}
