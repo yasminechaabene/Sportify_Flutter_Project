@@ -5,7 +5,6 @@ Sportify Is a flutter application for fitness. Sportify is a  program that will 
 ![Screenshot_20201121-073515](https://user-images.githubusercontent.com/44651085/99869670-212fc180-2bcd-11eb-83cf-e77644cb2d7b.png)
 ![Screenshot_20201121-073443](https://user-images.githubusercontent.com/44651085/99869673-2260ee80-2bcd-11eb-8dc2-47dab16e9e18.png)
 ![Screenshot_20201121-073447](https://user-images.githubusercontent.com/44651085/99869674-22f98500-2bcd-11eb-9ad5-75d18cec1e17.png)
-![Screenshot_20201121-023544](https://user-images.githubusercontent.com/44651085/99869428-41f71780-2bcb-11eb-8433-f564e948f61c.png)
 ![Screenshot_20201121-073537](https://user-images.githubusercontent.com/44651085/99869693-491f2500-2bcd-11eb-8174-678e91a23f50.png)
 ![Screenshot_20201121-073543](https://user-images.githubusercontent.com/44651085/99869696-4b817f00-2bcd-11eb-90f9-9658dedfbbdc.png)
 ![Screenshot_20201121-073630](https://user-images.githubusercontent.com/44651085/99869698-520ff680-2bcd-11eb-9f02-023c4c5f4c7a.png)
