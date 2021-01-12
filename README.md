@@ -1,5 +1,6 @@
 # Sportify_Flutter_Project
 Sportify Is a flutter application for fitness. Sportify is a  program that will insure you to loose fat quickly and gain more muscle all this with a lot of exercises synchronized with resting time in between also the app provides videos and instructions to learn more so our app is the best choice for you.
+
 ![1](https://user-images.githubusercontent.com/44651085/104308347-cdf13580-54d0-11eb-8155-b28b72337ca1.png)
 ![2](https://user-images.githubusercontent.com/44651085/104308362-d34e8000-54d0-11eb-9d9c-8cb43d4bc2e1.png)
 ![3](https://user-images.githubusercontent.com/44651085/104308365-d3e71680-54d0-11eb-87b0-063bfcf04e76.png)
